@@ -43,7 +43,7 @@ const Articles = () => {
                         <span>Sarthak Kamra</span>               
                         </div>
                         <div className='profile1-align'>
-                        <a>1.4k views</a>
+                        <a href='/home'>1.4k views</a>
                         <span><FontAwesomeIcon icon={faShareAltSquare} /></span>
                         </div>
                     </div>
@@ -80,7 +80,7 @@ const Articles = () => {
                         <span>Sarthak Kamra</span>               
                         </div>
                         <div className='profile1-align'>
-                        <a>1.4k views</a>
+                        <a href='/home'>1.4k views</a>
                         <span><FontAwesomeIcon icon={faShareAltSquare} /></span>
                         </div>
                     </div>
@@ -126,7 +126,7 @@ const Articles = () => {
                         <span>Sarthak Kamra</span>               
                         </div>
                         <div className='profile1-align'>
-                        <a>1.4k views</a>
+                        <a href='/Home'>1.4k views</a>
                         <span><FontAwesomeIcon icon={faShareAltSquare} /></span>
                         </div>
                     </div>
@@ -171,7 +171,7 @@ const Articles = () => {
                         <span>Joseph Gray</span>               
                         </div>
                         <div className='profile1-align'>
-                        <a>1.4k views</a>
+                        <a href='/home'>1.4k views</a>
                         <span><FontAwesomeIcon icon={faShareAltSquare} /></span>
                         </div>
                     </div>

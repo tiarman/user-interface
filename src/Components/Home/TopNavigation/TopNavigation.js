@@ -7,7 +7,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './TopNavigation.css';
 
 const TopNavigation = () => {
-  const [, setSmShow] = useState(false);
   const [lgShow, setLgShow] = useState(false);
 
   const [signInShow, setSignInShow] = useState(false)

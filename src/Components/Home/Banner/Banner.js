@@ -1,6 +1,5 @@
 import React from 'react';
 import Rectangle2 from '../../images/Rectangle2.png';
-import Rectangle3 from '../../images/Rectangle3.png';
 import './Banner.css'
 
 const Banner = () => {
