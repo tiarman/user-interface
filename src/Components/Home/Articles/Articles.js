@@ -3,7 +3,7 @@ import './Articles.css';
 import Article4 from '../../images/Article4.png';
 import Article5 from '../../images/Article5.png';
 import Article6 from '../../images/Article6.png';
-import { faBriefcase, faCalendar, faCalendarCheck, faEllipsisH, faExclamationCircle, faHandHoldingUsd, faLocationArrow, faMapMarker, faMapMarkerAlt, faMicroscope, faPen, faSearchLocation, faShareAltSquare } from '@fortawesome/free-solid-svg-icons'
+import { faBriefcase, faCalendar, faCalendarCheck, faEllipsisH, faExclamationCircle, faHandHoldingUsd, faMapMarkerAlt, faMicroscope, faPen, faShareAltSquare } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import profile1 from '../../images/profile1.png';
 import profile2 from '../../images/profile2.png';
