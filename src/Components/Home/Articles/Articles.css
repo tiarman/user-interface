@@ -1,0 +1,80 @@
+.first-article-align{
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+}
+.left-side-align{
+    margin-top: -220px;
+    
+}
+.card-footer-align{
+    padding: 20px;
+}
+.profile-align{
+    justify-content: space-between;
+    padding: 20px;
+    
+    
+}
+.profile1-align img{
+    margin-right: 20px;
+    
+}
+.profile1-align a{
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 576px) { 
+    .profile1-align a{
+        display: none;
+        
+    }
+   
+}
+@media screen and (max-width: 576px) { 
+    .profile1-align p{
+        display: none;
+        
+
+        
+    }
+   
+}
+
+.web-button button{
+    color: red;
+    box-sizing: border-box;
+    border: 0.7px dashed #A9AEBB;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 5px;
+    border-radius: 8px;
+}
+.mobile-view{
+    margin-left: 86px;
+    margin-top: -35px;
+    display: none;
+}
+@media screen and (max-width: 576px) { 
+    .mobile-view{
+        display: block;
+    }
+   
+}
+
+/* This is a Article right side align CSS property */
+
+
+.article-right-align{
+    text-align: center;
+    
+}
+.article-right-align p{
+    border-bottom: 1px solid rgba(148, 154, 160, 0.377);
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.article-right-align span{
+    margin-left: 15px;
+    opacity: 50%;
+    font-size: small;
+}

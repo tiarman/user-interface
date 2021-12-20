@@ -1,0 +1,192 @@
+.signup-modal-align{
+    padding: 10px;
+}
+.web-logo img{
+ width: 162.57px;
+ height: 24px;
+ margin-left: 40px;
+}
+.nav-searchbar input{
+    border-radius: 20px;
+    width: 250px;
+    font-size: small;
+    text-align: center;
+    border: none;
+    background-color: rgba(122, 120, 122, 0.185);
+    padding: 5px;
+}
+.signup-text span{
+    color: blue;
+}
+.signup-text span:hover{
+    cursor: pointer;
+}
+.signUp-img-align img{
+    width: 200px;
+}
+@media screen and (max-width: 576px) { 
+    .signUp-img-align img{
+        display: none;
+    }
+   
+}
+.signup-up-align{
+    display: grid;
+    
+}
+.signup-input-alignment{
+    display: grid;
+}
+.signup-content-align{
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    
+    
+}
+.signup-button1{
+    width: 100%;
+    border-radius: 20px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.signup-button1:hover{
+    cursor: pointer;
+}
+.signIn-btn{
+    display: none;
+}
+@media screen and (max-width: 576px) { 
+    .signIn-btn{
+        display: block;
+        margin-left: 250px;
+        margin-top: -40px;
+        margin-bottom: 35px;
+        border-bottom: 1px solid lightslategray;
+        width: 70px;
+        
+
+        
+    }
+   
+}
+@media screen and (max-width: 576px) { 
+    .signup-button1{
+        font-size: small;
+        width: 100px;
+        border-radius: 20px;
+        background-color: blue;
+        text-align: center;
+        color: white;
+    }
+    .signup-button1 span{
+        display: block;
+    }
+   
+}
+.modal-header-align{
+    margin-bottom: 15px;
+    background-color: rgba(60, 179, 114, 0.096);
+}
+
+
+.signUp-img-align{
+    justify-content: center;
+    text-align: center;
+}
+
+.signUp-img-align:hover{
+    cursor: pointer;
+}
+.signUp-img-align p{
+    font-size: small;
+}
+.footer-align{
+    margin-top: 120px;
+}
+.signup-button2{
+    width: 100%;
+    background-color: rgb(206, 206, 209);
+    text-align: center;
+    padding: 5px;
+    
+
+}
+.signup-button2:hover{
+    cursor: pointer;
+}
+.fb-btn i{
+    background-color: rgb(16, 80, 175);
+    border-radius: 50%;
+    color: white;
+    padding: 4px;
+}
+.google-button{
+    width: 100%;
+    background-color: rgb(206, 206, 209);
+    text-align: center;
+    padding: 5px;
+    margin-top: 8px;
+}
+.google-button:hover{
+    cursor: pointer;
+}
+.google-btn i{
+    background-color: rgb(218, 51, 29);
+    border-radius: 50%;
+    color: white;
+    padding: 4px;
+}
+
+
+.signIn-btns{
+    display: none;
+}
+@media screen and (max-width: 576px) { 
+    .signIn-btns{
+        display: block;
+        margin-bottom: -100px;
+        margin-left: 230px;
+        border-bottom: 1px solid lightslategray;
+        width: 135px;
+   
+    }
+   
+}
+@media screen and (max-width: 576px) { 
+    .right-img-align img{
+        display: none;
+        
+
+        
+    }
+   
+}
+
+/* This is Sign In CSS Property */
+
+.signIn-text-align span{
+    color: blue;
+
+}
+.signIn-text-align span:hover{
+    cursor: pointer;
+}
+@media screen and (max-width: 576px) { 
+    .signIn-text-align{
+        display: none;
+        
+    }
+   
+}
+
+@media screen and (max-width: 576px) { 
+    .article-right-align{
+        display: none;
+        
+
+        
+    }
+   
+}

@@ -1,0 +1,14 @@
+
+
+ .nav-brand-align{
+     
+ }
+
+ @media screen and (max-width: 576px) { 
+    .nav-brand-align{
+        
+    }
+    h1{
+        
+    }
+}
