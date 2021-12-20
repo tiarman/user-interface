@@ -14,7 +14,7 @@ const TopNavigation = () => {
   return (
     <Navbar bg="light" expand="lg">
       <Container fluid>
-        <Navbar.Brand className='web-logo' href="#"><img src={whole} alt="" /></Navbar.Brand>
+        <Navbar.Brand className='web-logo'><img src={whole} alt="" /></Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav className="me-auto my-2 my-lg-0" style={{ maxHeight: '100px' }} navbarScroll >
@@ -79,7 +79,7 @@ const TopNavigation = () => {
                   </div>
 
                   <div className='google-button'>
-                    <span href="#" class="google-btn"><i class="fa fa-google fa-fw">
+                    <span class="google-btn"><i class="fa fa-google fa-fw">
                     </i> Sign up with Google
                     </span>
                   </div>
@@ -122,7 +122,7 @@ const TopNavigation = () => {
                   </div>
 
                   <div className='google-button'>
-                    <span href="#" class="google-btn"><i class="fa fa-google fa-fw">
+                    <span class="google-btn"><i class="fa fa-google fa-fw">
                     </i> Sign in with Google
                     </span>
                   </div>
